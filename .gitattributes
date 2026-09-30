@@ -1,0 +1,6 @@
+﻿# Hide generated/vendored platform boilerplate from GitHub language stats
+windows/** linguist-vendored
+linux/**   linguist-vendored
+macos/**   linguist-vendored
+ios/**     linguist-vendored
+android/** linguist-vendored
