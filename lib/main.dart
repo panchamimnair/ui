@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:practice/apiint.dart';
 import 'package:practice/apiwithFuturebuilder.dart';
 import 'package:practice/reg.dart';
+import 'package:practice/ui13-10-26.dart';
+import 'package:practice/ui14-10-26.dart';
 import 'package:practice/view_model/auth_model_view.dart';
 import 'package:provider/provider.dart';
 import 'firebase_options.dart';
@@ -26,7 +28,7 @@ class MyApp extends StatelessWidget {
     //   child: 
       MaterialApp(
         debugShowCheckedModeBanner: false,
-        home: apiwithmodelp(),
+        home: Flutterblog1(),
       
     );
   }
